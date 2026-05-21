@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.4"
+      "Version": "10.0.0"
     },
-    "CreationDate": "2026-03-14T17:48:34+01:00"
+    "CreationDate": "2026-04-19T21:40:33+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 144.086,
+      "X": 111.175,
       "Y": 130.098
     },
     "LayerNumber": 6,
@@ -49,22 +49,22 @@
     },
     {
       "Path": "tolt-In1_Cu.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "tolt-In2_Cu.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "tolt-In3_Cu.gbr",
-      "FileFunction": "Copper,L9,Inr",
+      "FileFunction": "Copper,L4,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "tolt-In4_Cu.gbr",
-      "FileFunction": "Copper,L11,Inr",
+      "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
