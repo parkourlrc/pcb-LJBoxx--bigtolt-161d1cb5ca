@@ -5,7 +5,7 @@
 There is also a small high voltage converter used for higher voltage operation, aim was to have a quite big voltage operation range. But if you will test it with high voltage, please do mind that the voltage sensing is **un-isolated**
 
 # Untested !!
-This board is not tested but the pcb is ready for prototype. BOM and gerber are in [here](/tolt)
+This board is tested but the pcb needs some fixes (will do soon). BOM and gerber are in [here](/tolt)
 
 ## Board preview
 ![alt text](front.png)
